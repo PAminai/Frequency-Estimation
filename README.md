@@ -44,7 +44,7 @@ This repository contains the MATLAB code and documentation for the first homewor
 Download the following codes and reports from this repository:
 
 1. Download the ADSP_report.pdf
-2. MyCode_HW1
-3. MyCode_HW1_1p3
-4. MyCode_HW1_1p4
+2. MyCode_HW1.m
+3. MyCode_HW1_1p3.m
+4. MyCode_HW1_1p4.m
 
