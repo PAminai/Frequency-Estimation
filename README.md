@@ -5,7 +5,7 @@
 
 ## Overview
 
-This repository contains the MATLAB code and documentation for the first homework assignment in Advanced Digital Signal Processing (ADSP). The primary objective of this assignment is to estimate the frequency of a signal in the presence of noise using different techniques and analyze the performance of these techniques using the Cramer-Rao Bound (CRB) and Mean Squared Error (MSE).
+This repository contains the MATLAB code and documentation for the first homework assignment in Advanced Digital Signal Processing (ADSP). The primary objective of this assignment is to estimate the frequency of a signal in the presence of noise using different techniques and analyze the performance of with different level of SNR using the Cramer-Rao Bound (CRB) and Mean Squared Error (MSE).
 
 ## Contents
 
