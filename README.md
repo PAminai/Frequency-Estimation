@@ -43,8 +43,8 @@ This repository contains the MATLAB code and documentation for the first homewor
 
 Download the following codes and reports from this repository:
 
-1. Download the ADSP_report.pdf
-2. MyCode_HW1.m
-3. MyCode_HW1_1p3.m
-4. MyCode_HW1_1p4.m
+1. [ADSP_report.pdf](https://github.com/PAminai/Frequency-Estimation/blob/main/ADSP_report.pdf)
+2. [MyCode_HW1.m](https://github.com/PAminai/Frequency-Estimation/blob/main/MyCode_HW1.m)
+3. [MyCode_HW1_1p3.m](https://github.com/PAminai/Frequency-Estimation/blob/main/MyCode_HW1_1p3.m)
+4. [MyCode_HW1_1p4.m](https://github.com/PAminai/Frequency-Estimation/blob/main/MyCode_HW1_1p4.m)
 
