@@ -5,7 +5,7 @@
 
 ## Overview
 
-In this homework, we generated a random noise using a given sta􀆟s􀆟cal property. Then, we added this noise to our sinusoid waveform. Finally, we es􀆟mated the frequency of the generated waveform based on the PSD method. One possible future work can be es􀆟ma􀆟ng spa􀆟al frequency in radar systems, especially in array antennas. The PSD of the received signal at each element of the array should be taken when needed, and the spa􀆟al frequency corresponding to the peak point should be detected. Since the spa􀆟al frequency is propor􀆟onal to the angular distance, the direc􀆟on of arrival can be calculated.
+In this homework, we generated a random noise using a given sta􀆟s􀆟cal property. Then, we added this noise to our sinusoid waveform. Finally, we es􀆟mated the frequency of the generated waveform based on the PSD method. One possible future work can be es􀆟ma􀆟ng spa􀆟al frequency in radar systems, especially in array antennas. The PSD of the received signal at each element of the array should be taken when needed, and the spa􀆟al frequency corresponding to the peak point should be detected. Since the spatial frequency is propor􀆟onal to the angular distance, the direc􀆟on of arrival can be calculated.
 
 ## Contents
 
