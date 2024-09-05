@@ -5,7 +5,7 @@
 
 ## Overview
 
-This repository contains the MATLAB code and documentation for the first homework assignment in Advanced Digital Signal Processing (ADSP). The primary objective of this assignment is to estimate the frequency of a signal in the presence of noise using different techniques and analyze the performance of with different level of SNR using the Cramer-Rao Bound (CRB) and Mean Squared Error (MSE).
+In this homework, we generated a random noise using a given sta􀆟s􀆟cal property. Then, we added this noise to our sinusoid waveform. Finally, we es􀆟mated the frequency of the generated waveform based on the PSD method. One possible future work can be es􀆟ma􀆟ng spa􀆟al frequency in radar systems, especially in array antennas. The PSD of the received signal at each element of the array should be taken when needed, and the spa􀆟al frequency corresponding to the peak point should be detected. Since the spa􀆟al frequency is propor􀆟onal to the angular distance, the direc􀆟on of arrival can be calculated.
 
 ## Contents
 
